@@ -1,0 +1,9 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.button {
+	-fx-text-fill:white;
+	-fx-font-family: "Arial";
+	-fx-font-weight:bold;
+	-fx-background-radius:20.0 10.0;
+	
+	
+}
